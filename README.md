@@ -4,4 +4,4 @@ This notebook visually documents the creative process behind the development of 
 
 Currently, the [Binder](https://mybinder.org/) viewer for Jupyter does not have a Julia Kernel available online. To run this notebook interactively you must install IJulia on your PC. Use the saved screenshots to confirm that the notebook is yielding the expected results. Alternatively you may simply browse through the final version of the notebook on Binder ([here](https://nbviewer.jupyter.org/github/KhepriNotebook/WeavedFacade/blob/master/Notebook_WeavedFacade.ipynb)) or here on GitHub by opening the Isenberg.ipynb file.
 
-![](WeavedFacade.png)
+![](isenberg.png)
